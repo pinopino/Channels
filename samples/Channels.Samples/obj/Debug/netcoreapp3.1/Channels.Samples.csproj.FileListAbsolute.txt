@@ -1,0 +1,8 @@
+D:\dev\git_projects\Channels\samples\Channels.Samples\obj\Debug\netcoreapp3.1\Channels.Samples.csprojAssemblyReference.cache
+D:\dev\git_projects\Channels\samples\Channels.Samples\obj\Debug\netcoreapp3.1\Channels.Samples.csproj.CoreCompileInputs.cache
+D:\dev\git_projects\Channels\samples\Channels.Samples\obj\Debug\netcoreapp3.1\Channels.Samples.AssemblyInfoInputs.cache
+D:\dev\git_projects\Channels\samples\Channels.Samples\obj\Debug\netcoreapp3.1\Channels.Samples.AssemblyInfo.cs
+D:\dev\git_projects\Channels444\samples\Channels.Samples\obj\Debug\netcoreapp3.1\Channels.Samples.csprojAssemblyReference.cache
+D:\dev\git_projects\Channels444\samples\Channels.Samples\obj\Debug\netcoreapp3.1\Channels.Samples.csproj.CoreCompileInputs.cache
+D:\dev\git_projects\Channels444\samples\Channels.Samples\obj\Debug\netcoreapp3.1\Channels.Samples.AssemblyInfoInputs.cache
+D:\dev\git_projects\Channels444\samples\Channels.Samples\obj\Debug\netcoreapp3.1\Channels.Samples.AssemblyInfo.cs

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzTiQKQPVDkDtQ7Qz8HyGmWadVj1xO7HfFC2rpWFX956+xkcXOQAxHii+20rbya3lewlDq/Qj/GouwaiYSrsWg==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\git_projects\\Channels444\\src\\Channels.Networking.Sockets\\Channels.Networking.Sockets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pinopino\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\system.buffers.primitives\\0.1.0-alpha-001\\system.buffers.primitives.0.1.0-alpha-001.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\system.collections.sequences\\0.1.0-alpha-001\\system.collections.sequences.0.1.0-alpha-001.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\pinopino\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

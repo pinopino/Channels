@@ -1,0 +1,7 @@
+D:\dev\git_projects\Channels\src\Channels.Networking.Sockets\obj\Debug\netstandard2.0\Channels.Networking.Sockets.csproj.CoreCompileInputs.cache
+D:\dev\git_projects\Channels\src\Channels.Networking.Sockets\obj\Debug\netstandard2.0\Channels.Networking.Sockets.AssemblyInfoInputs.cache
+D:\dev\git_projects\Channels\src\Channels.Networking.Sockets\obj\Debug\netstandard2.0\Channels.Networking.Sockets.AssemblyInfo.cs
+D:\dev\git_projects\Channels444\src\Channels.Networking.Sockets\obj\Debug\netstandard2.0\Channels.Networking.Sockets.csprojAssemblyReference.cache
+D:\dev\git_projects\Channels444\src\Channels.Networking.Sockets\obj\Debug\netstandard2.0\Channels.Networking.Sockets.csproj.CoreCompileInputs.cache
+D:\dev\git_projects\Channels444\src\Channels.Networking.Sockets\obj\Debug\netstandard2.0\Channels.Networking.Sockets.AssemblyInfoInputs.cache
+D:\dev\git_projects\Channels444\src\Channels.Networking.Sockets\obj\Debug\netstandard2.0\Channels.Networking.Sockets.AssemblyInfo.cs

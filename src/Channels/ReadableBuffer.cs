@@ -392,13 +392,14 @@ namespace Channels
 
             if (IsSingleSpan)
             {
-                return First.Span.BlockEquals(value);
+                // origin: First.Span.BlockEquals(value);
+                return First.Span.SequenceEqual(value);
             }
 
             foreach (var memory in this)
             {
                 var compare = value.Slice(0, memory.Length);
-                if (!memory.Span.BlockEquals(compare))
+                if (!memory.Span.SequenceEqual(compare))
                 {
                     return false;
                 }
