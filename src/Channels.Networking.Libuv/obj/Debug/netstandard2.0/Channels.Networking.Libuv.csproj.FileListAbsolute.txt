@@ -1,7 +1,0 @@
-D:\dev\git_projects\Channels\src\Channels.Networking.Libuv\obj\Debug\netstandard2.0\Channels.Networking.Libuv.csproj.CoreCompileInputs.cache
-D:\dev\git_projects\Channels\src\Channels.Networking.Libuv\obj\Debug\netstandard2.0\Channels.Networking.Libuv.AssemblyInfoInputs.cache
-D:\dev\git_projects\Channels\src\Channels.Networking.Libuv\obj\Debug\netstandard2.0\Channels.Networking.Libuv.AssemblyInfo.cs
-D:\dev\git_projects\Channels444\src\Channels.Networking.Libuv\obj\Debug\netstandard2.0\Channels.Networking.Libuv.csprojAssemblyReference.cache
-D:\dev\git_projects\Channels444\src\Channels.Networking.Libuv\obj\Debug\netstandard2.0\Channels.Networking.Libuv.csproj.CoreCompileInputs.cache
-D:\dev\git_projects\Channels444\src\Channels.Networking.Libuv\obj\Debug\netstandard2.0\Channels.Networking.Libuv.AssemblyInfoInputs.cache
-D:\dev\git_projects\Channels444\src\Channels.Networking.Libuv\obj\Debug\netstandard2.0\Channels.Networking.Libuv.AssemblyInfo.cs
