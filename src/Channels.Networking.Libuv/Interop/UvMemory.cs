@@ -15,7 +15,8 @@ namespace Channels.Networking.Libuv.Interop
         protected Uv _uv;
         protected int _threadId;
 
-        protected UvMemory() : base(IntPtr.Zero, true)
+        protected UvMemory() 
+            : base(IntPtr.Zero, true) // 说明：ownsHandle为true即当前UvMemory对象被gc时对应的native资源会被close
         {
         }
 
@@ -23,8 +24,12 @@ namespace Channels.Networking.Libuv.Interop
 
         public override bool IsInvalid
         {
+            // 说明：通常如果当前托管对象持有的handle没有对应一个有效的native资源，
+            // 那么就应该返回true
             get
             {
+                // 不知道libuv的上下文中-1是不是也可以在这里返回true呢
+                // return hander == (IntPtr)(-1);
                 return handle == IntPtr.Zero;
             }
         }
